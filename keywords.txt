@@ -1,0 +1,32 @@
+# Syntax Highlighting For nerdiys_stepper_BKA30D library
+
+#====================
+# Datatypes (KEYWORD1)
+
+Stepper_BKA30D	KEYWORD1
+
+#====================
+# Methods and Functions (KEYWORD2)
+
+stepUp	KEYWORD2
+stepDown	KEYWORD2
+update	KEYWORD2
+setPosition	KEYWORD2
+powerOff	KEYWORD2
+getPosition KEYWORD2
+getPositionDegree KEYWORD2
+isRunning KEYWORD2
+powerOff KEYWORD2
+moveRelative KEYWORD2
+moveRelativeDegree KEYWORD2
+moveToAbsolute KEYWORD2
+moveToAbsoluteDegree KEYWORD2
+setZero KEYWORD2
+setMaxSpeed KEYWORD2
+
+#====================
+# Instances (KEYWORD2)
+
+
+#====================
+# Constants (LITERAL1)

@@ -1,0 +1,21 @@
+{
+    "name": "nerdiys_stepper_BKA30D",
+    "keywords": "VID28, Stepper, BKA30D, BK30D, X25",
+    "description": "Arduino library to control a BK30D aka VID28 dual stepper motor.",
+    "authors":
+    {
+        "name": "Fabian Steppat",
+        "email": "info@nerdiy.de",
+        "url": "https://nerdiy.de",
+        "maintainer": "true"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": ""
+    },
+    "version": "1.0.0",
+    "frameworks": "*",
+    "platforms": "*",
+    "license": "AGPL-3.0-or-later"
+}
